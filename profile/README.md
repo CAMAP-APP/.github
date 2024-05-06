@@ -1,4 +1,4 @@
-# L'application web CAMAP
+# CAMAP, l'application web de gestion d'AMAP
 
 CAMAP est la version libre (license GPL) et dédiée aux AMAP de l'application cagette.net initialement développée par Alilo.
 
