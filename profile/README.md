@@ -25,7 +25,7 @@ InterAMAP44 propose un hébergement participatif aux AMAP de France et Belgique 
 
 - https://amap44.org/camap
 
-Différents outils sont également mis à la disposition des utilisateurs de la plateforme hébergé par l'interAMAP44:
+Différents outils sont également mis à la disposition des utilisateurs de la plateforme hébergée par l'interAMAP44:
 
 - Feedback sur https://feedback.amap44.org
 - Bug tracker sur https://mantisbt.amap44.org
