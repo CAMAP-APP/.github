@@ -14,7 +14,7 @@ Camap propose:
 - La gestion des soldes et l'enregistrement des paiements contrat par contrat
 - L'édition des feuilles d'émargement,
 - Des droits d'accès paramétrables (Administrateur, Gestion d'un ou des contrats, Messagerie, Membre, …)
-…
+
 Bref, toutes les problématiques de fonctionnement d'une AMAP peuvent être gérées avec CAMAP, afin de simplifier la vie des producteurs, coordinateurs/référents et des mangeurs.
 
 Carte de France des AMAP utilisant CAMAP : https://camap.amap44.org/group/map
