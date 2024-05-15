@@ -32,8 +32,6 @@ Différents outils sont également mis à la disposition des utilisateurs de la 
 - Wiki sur https://wiki.amap44.org
 - Groupe facebook d'entraide: https://facebook.com/groups/camap44
 
-La **Région Pays de la Loire**, **Nantes Métropole** et le **Département de Loire-Atlantique** via le [Budget participatif 2024-2025](https://participer.loire-atlantique.fr/processes/budgetparticipatif2023/f/447/results/162) soutiennent l'InterAMAP44 en participant au financement du développement de Camap. 
-
 ## Installation de Camap
 
 Installation en environnement de développement:
@@ -43,3 +41,11 @@ https://github.com/CAMAP-APP/camap-ts/blob/master/docs/install.md
 Installation via camap-docker:
 
 https://github.com/CAMAP-APP/camap-docker
+
+## Soutiens
+
+**Nantes Métropole**, le **Département de Loire-Atlantique** via via le [Budget participatif 2024-2025](https://participer.loire-atlantique.fr/processes/budgetparticipatif2023/f/447/results/162), et la **Région Pays de la Loire** participent au financement du développement de Camap. 
+
+![Nantes_Métropole](https://github.com/CAMAP-APP/.github/assets/108131079/e096b03b-2abf-4f23-a043-73a5ed32b253)![Departement Loire-Atlantique](https://github.com/CAMAP-APP/.github/assets/108131079/b5caab61-f2a1-48c3-b427-a7ab0c207b69)![Région Pays de la Loire](https://github.com/CAMAP-APP/.github/assets/108131079/b5a0ba8f-4e8c-4afb-9341-b2577aad054e)
+
+
