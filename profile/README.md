@@ -19,7 +19,7 @@ Bref, toutes les problématiques de fonctionnement d'une AMAP peuvent être gér
 
 Carte de France des AMAP utilisant CAMAP : https://camap.amap44.org/group/map
 
-Le développement de CAMAP est piloté par l'InterAMAP44 et se fait de manière collaborative, en fonction des besoins et suggestions des utilisateurs (via le site feedback.amap44.org). Le code source est publié sur GitHub.
+Le développement de CAMAP est piloté par [l'InterAMAP44](https://amap44.org), association à but non lucratif des AMAP de Loire-Atlantique, et se fait de manière collaborative, en fonction des besoins et suggestions des utilisateurs (via le site feedback.amap44.org). Le code source est publié sur GitHub.
 
 InterAMAP44 propose un hébergement participatif aux AMAP de France et Belgique souhaitant une solution simple et mutualisée pour utiliser Camap: 
 
